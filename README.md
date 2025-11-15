@@ -39,20 +39,6 @@
 
 <br>
 
-### 📈 My Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akalong321&theme=github-dark&hide_border=true&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF" alt="Activity Graph"/>
-</p>
-
-<br>
-
-### 🗓️ My Contribution Calendar (Cái Lịch Bạn Muốn)
-<p align="center">
-  <img src="https://github-readme-contribution-grid.vercel.app/api?username=akalong321&theme=github_dark&hide_border=true&cache=bust" alt="Contribution Grid"/>
-</p>
-
-<br>
-
 ### 🌟 Featured Project
 
 * [**Project: "My Shop" Interface**](https://github.com/akalong321/my-shop-project)
