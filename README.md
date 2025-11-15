@@ -33,6 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akalong321&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache=bust" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akalong321&layout=compact&theme=github_dark&cache=bust" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akalong321&theme=github-dark-blue&hide_border=true&cache=bust" alt="GitHub Streak" />
 </p>
 
 <br>
@@ -40,6 +42,13 @@
 ### 📈 My Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akalong321&theme=github-dark&hide_border=true&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF" alt="Activity Graph"/>
+</p>
+
+<br>
+
+### 🗓️ My Contribution Calendar (Cái Lịch Bạn Muốn)
+<p align="center">
+  <img src="https://github-readme-contribution-grid.vercel.app/api?username=akalong321&theme=github_dark&hide_border=true&cache=bust" alt="Contribution Grid"/>
 </p>
 
 <br>
@@ -61,4 +70,3 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
-```eof
