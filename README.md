@@ -41,8 +41,11 @@
 
 ### 🌟 Featured Project
 
-* [**Project: "My Shop" Interface**](https://github.com/akalong321/my-shop-project)
-    * *Mô tả: Một dự án HTML/CSS thể hiện kỹ năng xây dựng giao diện web.*
+<p align="center">
+  <a href="https://github.com/akalong321/my-shop-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akalong321&repo=my-shop-project&theme=github_dark&show_owner=true&cache=bust" alt="My Shop Project Card"/>
+  </a>
+</p>
 
 <br>
 
